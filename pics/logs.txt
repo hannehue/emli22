@@ -1883,3 +1883,498 @@
 31/05/2024 14:15:59 Took photo with flag: Motion
 31/05/2024 14:16:07 Took photo with flag: Motion
 31/05/2024 14:16:16 Took photo with flag: Motion
+31/05/2024 14:16:25 Took photo with flag: Motion
+31/05/2024 14:16:34 Took photo with flag: Motion
+31/05/2024 14:16:43 Took photo with flag: Motion
+31/05/2024 14:16:51 Took photo with flag: Motion
+31/05/2024 14:17:01 Took photo with flag: Motion
+31/05/2024 14:17:09 Took photo with flag: Motion
+31/05/2024 14:17:18 Took photo with flag: Motion
+31/05/2024 14:17:27 Took photo with flag: Motion
+31/05/2024 14:17:36 Took photo with flag: Motion
+31/05/2024 14:17:45 Took photo with flag: Motion
+31/05/2024 14:17:54 Took photo with flag: Motion
+31/05/2024 14:18:02 Took photo with flag: Motion
+31/05/2024 14:18:11 Took photo with flag: Motion
+31/05/2024 14:18:20 Took photo with flag: Motion
+31/05/2024 14:18:29 Took photo with flag: Motion
+31/05/2024 14:18:38 Took photo with flag: Motion
+31/05/2024 14:18:47 Took photo with flag: Motion
+31/05/2024 14:18:56 Took photo with flag: Motion
+31/05/2024 14:19:05 Took photo with flag: Motion
+31/05/2024 14:19:14 Rain detected
+31/05/2024 14:19:14 Wiping lens
+31/05/2024 14:19:35 Took photo with flag: Motion
+31/05/2024 14:19:44 Took photo with flag: Motion
+31/05/2024 14:19:53 Took photo with flag: Motion
+31/05/2024 14:20:01 Took photo with flag: Motion
+31/05/2024 14:20:03 Took photo with flag: Time
+31/05/2024 14:20:10 Took photo with flag: Motion
+31/05/2024 14:20:54 Took photo with flag: Motion
+31/05/2024 14:21:03 Took photo with flag: Motion
+31/05/2024 14:21:12 Took photo with flag: Motion
+31/05/2024 14:21:21 Took photo with flag: Motion
+31/05/2024 14:21:24 Rain detected
+31/05/2024 14:21:24 Wiping lens
+31/05/2024 14:21:26 Rain detected
+31/05/2024 14:21:26 Wiping lens
+31/05/2024 14:21:29 Rain detected
+31/05/2024 14:21:29 Wiping lens
+31/05/2024 14:21:30 Took photo with flag: Motion
+31/05/2024 14:21:34 Rain detected
+31/05/2024 14:21:34 Wiping lens
+31/05/2024 14:21:38 Took photo with flag: Motion
+31/05/2024 14:21:39 Rain detected
+31/05/2024 14:21:39 Wiping lens
+31/05/2024 14:21:42 Rain detected
+31/05/2024 14:21:42 Wiping lens
+31/05/2024 14:21:45 Rain detected
+31/05/2024 14:21:45 Wiping lens
+31/05/2024 14:21:48 Took photo with flag: Motion
+31/05/2024 14:21:56 Took photo with flag: Motion
+31/05/2024 14:22:05 Took photo with flag: Motion
+31/05/2024 14:22:14 Took photo with flag: Motion
+31/05/2024 14:22:23 Took photo with flag: Motion
+31/05/2024 14:22:32 Took photo with flag: Motion
+31/05/2024 14:22:41 Took photo with flag: Motion
+31/05/2024 14:22:49 Took photo with flag: Motion
+31/05/2024 14:22:58 Took photo with flag: Motion
+31/05/2024 14:23:07 Took photo with flag: Motion
+31/05/2024 14:23:16 Took photo with flag: Motion
+31/05/2024 14:23:25 Took photo with flag: Motion
+31/05/2024 14:23:33 Took photo with flag: Motion
+31/05/2024 14:23:43 Took photo with flag: Motion
+31/05/2024 14:23:52 Took photo with flag: Motion
+31/05/2024 14:24:00 Took photo with flag: Motion
+31/05/2024 14:24:09 Took photo with flag: Motion
+31/05/2024 14:24:18 Took photo with flag: Motion
+31/05/2024 14:24:27 Took photo with flag: Motion
+31/05/2024 14:24:36 Took photo with flag: Motion
+31/05/2024 14:24:45 Took photo with flag: Motion
+31/05/2024 14:24:46 Rain detected
+31/05/2024 14:24:46 Wiping lens
+31/05/2024 14:24:50 Rain detected
+31/05/2024 14:24:50 Wiping lens
+31/05/2024 14:24:54 Rain detected
+31/05/2024 14:24:54 Wiping lens
+31/05/2024 14:24:54 Took photo with flag: Motion
+31/05/2024 14:25:02 Took photo with flag: Motion
+31/05/2024 14:25:03 Took photo with flag: Time
+31/05/2024 14:25:03 Rain detected
+31/05/2024 14:25:03 Wiping lens
+31/05/2024 14:25:06 Rain detected
+31/05/2024 14:25:06 Wiping lens
+31/05/2024 14:25:11 Took photo with flag: Motion
+31/05/2024 14:25:11 Rain detected
+31/05/2024 14:25:11 Wiping lens
+31/05/2024 14:25:15 Rain detected
+31/05/2024 14:25:15 Wiping lens
+31/05/2024 14:25:20 Took photo with flag: Motion
+31/05/2024 14:25:29 Took photo with flag: Motion
+31/05/2024 14:25:37 Took photo with flag: Motion
+31/05/2024 14:25:46 Took photo with flag: Motion
+31/05/2024 14:25:55 Took photo with flag: Motion
+31/05/2024 14:26:04 Took photo with flag: Motion
+31/05/2024 14:26:13 Took photo with flag: Motion
+31/05/2024 14:26:22 Took photo with flag: Motion
+31/05/2024 14:26:31 Took photo with flag: Motion
+31/05/2024 14:26:39 Took photo with flag: Motion
+31/05/2024 14:26:49 Took photo with flag: Motion
+31/05/2024 14:26:57 Took photo with flag: Motion
+31/05/2024 14:27:06 Took photo with flag: Motion
+31/05/2024 14:27:15 Took photo with flag: Motion
+31/05/2024 14:27:24 Took photo with flag: Motion
+31/05/2024 14:27:33 Took photo with flag: Motion
+31/05/2024 14:27:42 Took photo with flag: Motion
+31/05/2024 14:27:51 Took photo with flag: Motion
+31/05/2024 14:27:59 Took photo with flag: Motion
+31/05/2024 14:28:08 Took photo with flag: Motion
+31/05/2024 14:28:17 Took photo with flag: Motion
+31/05/2024 14:28:26 Took photo with flag: Motion
+31/05/2024 14:28:35 Took photo with flag: Motion
+31/05/2024 14:28:43 Took photo with flag: Motion
+31/05/2024 14:28:52 Took photo with flag: Motion
+31/05/2024 14:29:01 Took photo with flag: Motion
+31/05/2024 14:29:10 Took photo with flag: Motion
+31/05/2024 14:29:19 Took photo with flag: Motion
+31/05/2024 14:29:28 Took photo with flag: Motion
+31/05/2024 14:29:36 Took photo with flag: Motion
+31/05/2024 14:29:45 Took photo with flag: Motion
+31/05/2024 14:29:54 Took photo with flag: Motion
+31/05/2024 14:30:02 Took photo with flag: Motion
+31/05/2024 14:30:02 Took photo with flag: Time
+31/05/2024 14:30:11 Took photo with flag: Motion
+31/05/2024 14:30:19 Took photo with flag: Motion
+31/05/2024 14:30:28 Took photo with flag: Motion
+31/05/2024 14:30:37 Took photo with flag: Motion
+31/05/2024 14:30:46 Took photo with flag: Motion
+31/05/2024 14:30:55 Took photo with flag: Motion
+31/05/2024 14:31:04 Took photo with flag: Motion
+31/05/2024 14:31:13 Took photo with flag: Motion
+31/05/2024 14:31:22 Took photo with flag: Motion
+31/05/2024 14:31:30 Took photo with flag: Motion
+31/05/2024 14:31:37 Rain detected
+31/05/2024 14:31:37 Wiping lens
+31/05/2024 14:31:40 Took photo with flag: Motion
+31/05/2024 14:31:48 Took photo with flag: Motion
+31/05/2024 14:31:57 Took photo with flag: Motion
+31/05/2024 14:32:06 Took photo with flag: Motion
+31/05/2024 14:32:15 Took photo with flag: Motion
+31/05/2024 14:32:23 Took photo with flag: Motion
+31/05/2024 14:32:32 Took photo with flag: Motion
+31/05/2024 14:32:41 Took photo with flag: Motion
+31/05/2024 14:34:07 Took photo with flag: Motion
+31/05/2024 14:34:16 Took photo with flag: Motion
+31/05/2024 14:34:25 Took photo with flag: Motion
+31/05/2024 14:34:34 Took photo with flag: Motion
+31/05/2024 14:34:43 Took photo with flag: Motion
+31/05/2024 14:34:49 Rain detected
+31/05/2024 14:34:49 Wiping lens
+31/05/2024 14:34:52 Took photo with flag: Motion
+31/05/2024 14:35:01 Took photo with flag: Motion
+31/05/2024 14:35:03 Took photo with flag: Time
+31/05/2024 14:35:09 Took photo with flag: Motion
+31/05/2024 14:35:19 Took photo with flag: Motion
+31/05/2024 14:35:27 Took photo with flag: Motion
+31/05/2024 14:35:36 Took photo with flag: Motion
+31/05/2024 14:35:42 Rain detected
+31/05/2024 14:35:42 Wiping lens
+31/05/2024 14:35:44 Rain detected
+31/05/2024 14:35:44 Wiping lens
+31/05/2024 14:35:45 Took photo with flag: Motion
+31/05/2024 14:35:54 Took photo with flag: Motion
+31/05/2024 14:36:02 Took photo with flag: Motion
+31/05/2024 14:36:11 Took photo with flag: Motion
+31/05/2024 14:36:20 Took photo with flag: Motion
+31/05/2024 14:36:29 Took photo with flag: Motion
+31/05/2024 14:36:38 Took photo with flag: Motion
+31/05/2024 14:36:46 Took photo with flag: Motion
+31/05/2024 14:36:55 Took photo with flag: Motion
+31/05/2024 14:37:04 Took photo with flag: Motion
+31/05/2024 14:37:13 Took photo with flag: Motion
+31/05/2024 14:37:21 Took photo with flag: Motion
+31/05/2024 14:37:30 Took photo with flag: Motion
+31/05/2024 14:37:39 Took photo with flag: Motion
+31/05/2024 14:37:48 Took photo with flag: Motion
+31/05/2024 14:37:56 Rain detected
+31/05/2024 14:37:56 Wiping lens
+31/05/2024 14:38:04 Took photo with flag: Motion
+31/05/2024 14:38:12 Took photo with flag: Motion
+31/05/2024 14:38:21 Took photo with flag: Motion
+31/05/2024 14:38:30 Took photo with flag: Motion
+31/05/2024 14:38:39 Took photo with flag: Motion
+31/05/2024 14:38:48 Took photo with flag: Motion
+31/05/2024 14:38:57 Took photo with flag: Motion
+31/05/2024 14:39:06 Took photo with flag: Motion
+31/05/2024 14:39:14 Took photo with flag: Motion
+31/05/2024 14:39:23 Took photo with flag: Motion
+31/05/2024 14:39:32 Took photo with flag: Motion
+31/05/2024 14:39:41 Took photo with flag: Motion
+31/05/2024 14:39:50 Took photo with flag: Motion
+31/05/2024 14:39:58 Took photo with flag: Motion
+31/05/2024 14:40:03 Took photo with flag: Time
+31/05/2024 14:40:20 Took photo with flag: Motion
+31/05/2024 14:40:28 Took photo with flag: Motion
+31/05/2024 14:40:37 Took photo with flag: Motion
+31/05/2024 14:40:47 Took photo with flag: Motion
+31/05/2024 14:40:55 Took photo with flag: Motion
+31/05/2024 14:41:04 Took photo with flag: Motion
+31/05/2024 14:41:13 Took photo with flag: Motion
+31/05/2024 14:41:43 Took photo with flag: Motion
+31/05/2024 14:41:52 Took photo with flag: Motion
+31/05/2024 14:42:01 Took photo with flag: Motion
+31/05/2024 14:42:09 Took photo with flag: Motion
+31/05/2024 14:42:18 Took photo with flag: Motion
+31/05/2024 14:42:27 Took photo with flag: Motion
+31/05/2024 14:42:36 Took photo with flag: Motion
+31/05/2024 14:42:45 Took photo with flag: Motion
+31/05/2024 14:42:54 Took photo with flag: Motion
+31/05/2024 14:43:03 Took photo with flag: Motion
+31/05/2024 14:43:11 Took photo with flag: Motion
+31/05/2024 14:43:20 Took photo with flag: Motion
+31/05/2024 14:43:29 Took photo with flag: Motion
+31/05/2024 14:43:38 Took photo with flag: Motion
+31/05/2024 14:43:47 Took photo with flag: Motion
+31/05/2024 14:43:56 Took photo with flag: Motion
+31/05/2024 14:44:05 Took photo with flag: Motion
+31/05/2024 14:44:14 Took photo with flag: Motion
+31/05/2024 14:44:23 Took photo with flag: Motion
+31/05/2024 14:44:32 Took photo with flag: Motion
+31/05/2024 14:44:42 Took photo with flag: Motion
+31/05/2024 14:44:51 Took photo with flag: Motion
+31/05/2024 14:45:00 Took photo with flag: Motion
+31/05/2024 14:45:03 Took photo with flag: Time
+31/05/2024 14:45:09 Took photo with flag: Motion
+31/05/2024 14:45:18 Took photo with flag: Motion
+31/05/2024 14:45:27 Took photo with flag: Motion
+31/05/2024 14:45:35 Took photo with flag: Motion
+31/05/2024 14:45:44 Took photo with flag: Motion
+31/05/2024 14:45:53 Took photo with flag: Motion
+31/05/2024 14:46:02 Took photo with flag: Motion
+31/05/2024 14:46:11 Took photo with flag: Motion
+31/05/2024 14:46:20 Took photo with flag: Motion
+31/05/2024 14:46:28 Took photo with flag: Motion
+31/05/2024 14:46:37 Took photo with flag: Motion
+31/05/2024 14:46:46 Took photo with flag: Motion
+31/05/2024 14:46:55 Took photo with flag: Motion
+31/05/2024 14:47:04 Took photo with flag: Motion
+31/05/2024 14:47:13 Took photo with flag: Motion
+31/05/2024 14:47:22 Took photo with flag: Motion
+31/05/2024 14:47:31 Took photo with flag: Motion
+31/05/2024 14:47:40 Took photo with flag: Motion
+31/05/2024 14:47:49 Took photo with flag: Motion
+31/05/2024 14:47:57 Took photo with flag: Motion
+31/05/2024 14:48:06 Took photo with flag: Motion
+31/05/2024 14:48:15 Took photo with flag: Motion
+31/05/2024 14:48:24 Took photo with flag: Motion
+31/05/2024 14:48:32 Took photo with flag: Motion
+31/05/2024 14:48:42 Took photo with flag: Motion
+31/05/2024 14:48:50 Took photo with flag: Motion
+31/05/2024 14:48:59 Took photo with flag: Motion
+31/05/2024 14:49:08 Took photo with flag: Motion
+31/05/2024 14:49:17 Took photo with flag: Motion
+31/05/2024 14:49:26 Took photo with flag: Motion
+31/05/2024 14:49:35 Took photo with flag: Motion
+31/05/2024 14:49:44 Took photo with flag: Motion
+31/05/2024 14:49:52 Took photo with flag: Motion
+31/05/2024 14:50:01 Took photo with flag: Motion
+31/05/2024 14:50:02 Took photo with flag: Time
+31/05/2024 14:50:11 Took photo with flag: Motion
+31/05/2024 14:50:19 Took photo with flag: Motion
+31/05/2024 14:50:28 Took photo with flag: Motion
+31/05/2024 14:50:37 Took photo with flag: Motion
+31/05/2024 14:50:46 Took photo with flag: Motion
+31/05/2024 14:50:55 Took photo with flag: Motion
+31/05/2024 14:51:04 Took photo with flag: Motion
+31/05/2024 14:51:13 Took photo with flag: Motion
+31/05/2024 14:51:22 Took photo with flag: Motion
+31/05/2024 14:51:31 Took photo with flag: Motion
+31/05/2024 14:51:39 Took photo with flag: Motion
+31/05/2024 14:51:48 Took photo with flag: Motion
+31/05/2024 14:51:57 Took photo with flag: Motion
+31/05/2024 14:52:06 Took photo with flag: Motion
+31/05/2024 14:52:15 Took photo with flag: Motion
+31/05/2024 14:52:23 Took photo with flag: Motion
+31/05/2024 14:52:32 Took photo with flag: Motion
+31/05/2024 14:52:41 Took photo with flag: Motion
+31/05/2024 14:52:50 Took photo with flag: Motion
+31/05/2024 14:52:59 Took photo with flag: Motion
+31/05/2024 14:53:08 Took photo with flag: Motion
+31/05/2024 14:53:17 Took photo with flag: Motion
+31/05/2024 14:53:25 Took photo with flag: Motion
+31/05/2024 14:53:35 Took photo with flag: Motion
+31/05/2024 14:53:43 Took photo with flag: Motion
+31/05/2024 14:53:52 Took photo with flag: Motion
+31/05/2024 14:54:01 Took photo with flag: Motion
+31/05/2024 14:54:10 Took photo with flag: Motion
+31/05/2024 14:54:19 Took photo with flag: Motion
+31/05/2024 14:54:27 Took photo with flag: Motion
+31/05/2024 14:54:36 Took photo with flag: Motion
+31/05/2024 14:54:45 Took photo with flag: Motion
+31/05/2024 14:54:54 Took photo with flag: Motion
+31/05/2024 14:55:02 Took photo with flag: Time
+31/05/2024 14:55:03 Took photo with flag: Motion
+31/05/2024 14:55:12 Took photo with flag: Motion
+31/05/2024 14:55:21 Took photo with flag: Motion
+31/05/2024 14:55:30 Took photo with flag: Motion
+31/05/2024 14:55:39 Took photo with flag: Motion
+31/05/2024 14:55:48 Took photo with flag: Motion
+31/05/2024 14:55:57 Took photo with flag: Motion
+31/05/2024 14:56:06 Took photo with flag: Motion
+31/05/2024 14:56:15 Took photo with flag: Motion
+31/05/2024 14:56:24 Took photo with flag: Motion
+31/05/2024 14:56:33 Took photo with flag: Motion
+31/05/2024 14:56:41 Took photo with flag: Motion
+31/05/2024 14:56:51 Took photo with flag: Motion
+31/05/2024 14:56:59 Took photo with flag: Motion
+31/05/2024 14:57:08 Took photo with flag: Motion
+31/05/2024 14:57:17 Took photo with flag: Motion
+31/05/2024 14:57:26 Took photo with flag: Motion
+31/05/2024 14:57:35 Took photo with flag: Motion
+31/05/2024 14:57:43 Took photo with flag: Motion
+31/05/2024 14:57:52 Took photo with flag: Motion
+31/05/2024 14:58:01 Took photo with flag: Motion
+31/05/2024 14:58:10 Took photo with flag: Motion
+31/05/2024 14:58:19 Took photo with flag: Motion
+31/05/2024 14:58:28 Took photo with flag: Motion
+31/05/2024 14:58:37 Took photo with flag: Motion
+31/05/2024 14:58:46 Took photo with flag: Motion
+31/05/2024 14:58:48 Rain detected
+31/05/2024 14:58:48 Wiping lens
+31/05/2024 14:58:52 Rain detected
+31/05/2024 14:58:52 Wiping lens
+31/05/2024 14:58:55 Took photo with flag: Motion
+31/05/2024 14:58:55 Rain detected
+31/05/2024 14:58:55 Wiping lens
+31/05/2024 14:58:57 Rain detected
+31/05/2024 14:58:57 Wiping lens
+31/05/2024 14:59:04 Took photo with flag: Motion
+31/05/2024 14:59:13 Took photo with flag: Motion
+31/05/2024 14:59:21 Took photo with flag: Motion
+31/05/2024 14:59:30 Took photo with flag: Motion
+31/05/2024 14:59:39 Took photo with flag: Motion
+31/05/2024 14:59:48 Took photo with flag: Motion
+31/05/2024 14:59:57 Took photo with flag: Motion
+31/05/2024 15:00:02 Took photo with flag: Time
+31/05/2024 15:00:06 Took photo with flag: Motion
+31/05/2024 15:00:08 Rain detected
+31/05/2024 15:00:08 Wiping lens
+31/05/2024 15:00:15 Took photo with flag: Motion
+31/05/2024 15:01:32 Took photo with flag: Motion
+31/05/2024 15:01:41 Took photo with flag: Motion
+31/05/2024 15:02:18 Took photo with flag: Motion
+31/05/2024 15:02:28 Took photo with flag: Motion
+31/05/2024 15:02:37 Took photo with flag: Motion
+31/05/2024 15:02:46 Took photo with flag: Motion
+31/05/2024 15:02:55 Took photo with flag: Motion
+31/05/2024 15:03:04 Took photo with flag: Motion
+31/05/2024 15:03:12 Took photo with flag: Motion
+31/05/2024 15:03:21 Took photo with flag: Motion
+31/05/2024 15:03:30 Took photo with flag: Motion
+31/05/2024 15:03:39 Took photo with flag: Motion
+31/05/2024 15:03:47 Took photo with flag: Motion
+31/05/2024 15:03:56 Took photo with flag: Motion
+31/05/2024 15:04:05 Took photo with flag: Motion
+31/05/2024 15:04:38 Took photo with flag: Motion
+31/05/2024 15:04:47 Took photo with flag: Motion
+31/05/2024 15:05:11 Took photo with flag: Motion
+31/05/2024 15:05:18 Took photo with flag: Time
+31/05/2024 15:05:20 Took photo with flag: Motion
+31/05/2024 15:05:29 Took photo with flag: Motion
+31/05/2024 15:05:37 Took photo with flag: Motion
+31/05/2024 15:05:46 Took photo with flag: Motion
+31/05/2024 15:05:55 Took photo with flag: Motion
+31/05/2024 15:06:05 Took photo with flag: Motion
+31/05/2024 15:06:14 Took photo with flag: Motion
+31/05/2024 15:06:23 Took photo with flag: Motion
+31/05/2024 15:06:32 Took photo with flag: Motion
+31/05/2024 15:06:41 Took photo with flag: Motion
+31/05/2024 15:06:49 Took photo with flag: Motion
+31/05/2024 15:06:58 Took photo with flag: Motion
+31/05/2024 15:07:08 Took photo with flag: Motion
+31/05/2024 15:07:16 Took photo with flag: Motion
+31/05/2024 15:07:25 Took photo with flag: Motion
+31/05/2024 15:07:34 Took photo with flag: Motion
+31/05/2024 15:07:43 Took photo with flag: Motion
+31/05/2024 15:07:52 Took photo with flag: Motion
+31/05/2024 15:08:01 Took photo with flag: Motion
+31/05/2024 15:08:09 Took photo with flag: Motion
+31/05/2024 15:08:18 Took photo with flag: Motion
+31/05/2024 15:08:27 Took photo with flag: Motion
+31/05/2024 15:08:36 Took photo with flag: Motion
+31/05/2024 15:08:45 Took photo with flag: Motion
+31/05/2024 15:08:48 Rain detected
+31/05/2024 15:08:48 Wiping lens
+31/05/2024 15:08:51 Rain detected
+31/05/2024 15:08:51 Wiping lens
+31/05/2024 15:08:53 Took photo with flag: Motion
+31/05/2024 15:09:02 Took photo with flag: Motion
+31/05/2024 15:09:11 Took photo with flag: Motion
+31/05/2024 15:09:20 Took photo with flag: Motion
+31/05/2024 15:09:29 Took photo with flag: Motion
+31/05/2024 15:09:38 Took photo with flag: Motion
+31/05/2024 15:09:47 Took photo with flag: Motion
+31/05/2024 15:09:56 Took photo with flag: Motion
+31/05/2024 15:10:03 Took photo with flag: Time
+31/05/2024 15:10:05 Took photo with flag: Motion
+31/05/2024 15:10:14 Took photo with flag: Motion
+31/05/2024 15:10:23 Took photo with flag: Motion
+31/05/2024 15:10:32 Took photo with flag: Motion
+31/05/2024 15:10:41 Took photo with flag: Motion
+31/05/2024 15:10:50 Took photo with flag: Motion
+31/05/2024 15:10:59 Took photo with flag: Motion
+31/05/2024 15:11:08 Took photo with flag: Motion
+31/05/2024 15:11:17 Took photo with flag: Motion
+31/05/2024 15:11:26 Took photo with flag: Motion
+31/05/2024 15:11:35 Took photo with flag: Motion
+31/05/2024 15:11:44 Took photo with flag: Motion
+31/05/2024 15:11:53 Took photo with flag: Motion
+31/05/2024 15:12:02 Took photo with flag: Motion
+31/05/2024 15:12:11 Took photo with flag: Motion
+31/05/2024 15:12:20 Took photo with flag: Motion
+31/05/2024 15:13:26 Took photo with flag: Motion
+31/05/2024 15:13:26 Rain detected
+31/05/2024 15:13:26 Wiping lens
+31/05/2024 15:13:30 Rain detected
+31/05/2024 15:13:30 Wiping lens
+31/05/2024 15:13:32 Rain detected
+31/05/2024 15:13:32 Wiping lens
+31/05/2024 15:13:35 Rain detected
+31/05/2024 15:13:35 Wiping lens
+31/05/2024 15:13:35 Took photo with flag: Motion
+31/05/2024 15:13:40 Rain detected
+31/05/2024 15:13:40 Wiping lens
+31/05/2024 15:13:44 Took photo with flag: Motion
+31/05/2024 15:13:44 Rain detected
+31/05/2024 15:13:44 Wiping lens
+31/05/2024 15:13:48 Rain detected
+31/05/2024 15:13:48 Wiping lens
+31/05/2024 15:13:51 Rain detected
+31/05/2024 15:13:51 Wiping lens
+31/05/2024 15:13:52 Took photo with flag: Motion
+31/05/2024 15:14:00 Rain detected
+31/05/2024 15:14:00 Wiping lens
+31/05/2024 15:14:01 Took photo with flag: Motion
+31/05/2024 15:14:09 Rain detected
+31/05/2024 15:14:09 Wiping lens
+31/05/2024 15:14:10 Took photo with flag: Motion
+31/05/2024 15:14:11 Rain detected
+31/05/2024 15:14:11 Wiping lens
+31/05/2024 15:14:19 Took photo with flag: Motion
+31/05/2024 15:14:28 Took photo with flag: Motion
+31/05/2024 15:14:37 Took photo with flag: Motion
+31/05/2024 15:14:46 Took photo with flag: Motion
+31/05/2024 15:14:55 Took photo with flag: Motion
+31/05/2024 15:15:03 Took photo with flag: Motion
+31/05/2024 15:15:03 Took photo with flag: Time
+31/05/2024 15:15:11 Took photo with flag: Motion
+31/05/2024 15:15:21 Took photo with flag: Motion
+31/05/2024 15:15:29 Took photo with flag: Motion
+31/05/2024 15:15:35 Rain detected
+31/05/2024 15:15:35 Wiping lens
+31/05/2024 15:15:38 Took photo with flag: Motion
+31/05/2024 15:15:39 Rain detected
+31/05/2024 15:15:39 Wiping lens
+31/05/2024 15:15:47 Took photo with flag: Motion
+31/05/2024 15:15:56 Took photo with flag: Motion
+31/05/2024 15:16:05 Took photo with flag: Motion
+31/05/2024 15:16:14 Took photo with flag: Motion
+31/05/2024 15:16:22 Took photo with flag: Motion
+31/05/2024 15:16:31 Took photo with flag: Motion
+31/05/2024 15:16:40 Took photo with flag: Motion
+31/05/2024 15:16:49 Took photo with flag: Motion
+31/05/2024 15:16:52 Rain detected
+31/05/2024 15:16:52 Wiping lens
+31/05/2024 15:16:55 Rain detected
+31/05/2024 15:16:55 Wiping lens
+31/05/2024 15:16:58 Took photo with flag: Motion
+31/05/2024 15:17:07 Took photo with flag: Motion
+31/05/2024 15:17:10 Rain detected
+31/05/2024 15:17:10 Wiping lens
+31/05/2024 15:17:16 Took photo with flag: Motion
+31/05/2024 15:17:25 Took photo with flag: Motion
+31/05/2024 15:17:34 Took photo with flag: Motion
+31/05/2024 15:17:43 Took photo with flag: Motion
+31/05/2024 15:17:51 Took photo with flag: Motion
+31/05/2024 15:18:01 Took photo with flag: Motion
+31/05/2024 15:18:09 Took photo with flag: Motion
+31/05/2024 15:18:18 Took photo with flag: Motion
+31/05/2024 15:18:27 Took photo with flag: Motion
+31/05/2024 15:18:36 Took photo with flag: Motion
+31/05/2024 15:20:03 Took photo with flag: Time
+31/05/2024 15:25:02 Took photo with flag: Time
+31/05/2024 15:25:27 Took photo with flag: Motion
+31/05/2024 15:25:36 Took photo with flag: Motion
+31/05/2024 15:25:45 Took photo with flag: Motion
+31/05/2024 15:25:54 Took photo with flag: Motion
+31/05/2024 15:26:02 Took photo with flag: Motion
+31/05/2024 15:26:11 Took photo with flag: Motion
+31/05/2024 15:26:20 Took photo with flag: Motion
+31/05/2024 15:26:29 Took photo with flag: Motion
+31/05/2024 15:26:38 Took photo with flag: Motion
+31/05/2024 15:26:47 Took photo with flag: Motion
+31/05/2024 15:26:56 Took photo with flag: Motion
+31/05/2024 15:27:05 Took photo with flag: Motion
+31/05/2024 15:27:14 Took photo with flag: Motion
+31/05/2024 15:27:22 Took photo with flag: Motion
+31/05/2024 15:27:31 Took photo with flag: Motion
