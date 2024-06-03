@@ -26,19 +26,19 @@ link_quality=$(echo $wifi_info | awk '{print int($2)}')
 seconds_epoch=$(date +%s)
 
 # Main loop to check for the SSID and sync time
-mysql -u root -h $DB_HOST < wifi_status.sql
+mariadb -u root -h $DB_HOST < wifiPost.sql
 
 while true; do
     if is_connected_to_ssid; then
-        echo "Connected"
+        echo "Er på nettet"
         
-        mysql -u $DB_USER -h $DB_HOST $DB_NAME <<EOF
+        mariadb -u $DB_USER -h $DB_HOST $DB_NAME <<EOF
         INSERT INTO $DB_TABLE (signal_level, link_quality, seconds_epoch)
         VALUES ($signal_level, $link_quality, $seconds_epoch);
 EOF
         sleep 5
     else
-        echo "Disconnected"
+        echo "Er ikke længere på nettet"
         sleep 5
     fi
 done

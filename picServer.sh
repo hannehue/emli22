@@ -1,1 +1,1 @@
-python3 -m http.server 1102 -d /home/emli/project/pics/
+python3 -m http.server  -d /home/emli/project/pics/

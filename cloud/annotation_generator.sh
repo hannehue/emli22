@@ -79,11 +79,11 @@ EOF
   fi
 done
 
-# # Add new json files to git
-# git add ../annotatedPics/
+# Add new json files to git
+git add ../annotatedPics/
 
-# # Commits new annotated pictures
-# git commit -m "Annotated new pictures"
+# Commits new annotated pictures
+git commit -m "Annotated new pictures"
 
-# # Push changes to git
-# git push
+# Push changes to git
+git push
