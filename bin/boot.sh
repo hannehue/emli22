@@ -7,4 +7,4 @@ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 /home/emli/project/rain/rainWipeSERIAL.sh > /dev/null 2>&1 &
 /home/emli/project/picServer.sh > /dev/null 2>&1 &
 /home/emli/project/pressureDetect.sh > /dev/null 2>&1 &
-/home/emli/project/bin/wildelifeCameraServer.sh > /dev/null 2>&1 &
+/home/emli/project/bin/wildelifeCameraServer.sh >> /home/emli/project/camServerLogs.txt 2>&1 &
