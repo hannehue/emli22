@@ -5,7 +5,7 @@ import time
 import os
 import json
 
-wildlife_camera_ip = "http://192.168.10.1:6969"
+wildlife_camera_ip = "http://10.0.0.10:6969"
 drone_id = "WILDDRONE-001"
 photos = "./pics/"
 

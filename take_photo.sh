@@ -30,7 +30,7 @@ json_body='{
 }'
 
 DATETIME=$(date +"%d/%m/%Y %H:%M:%S")
-echo "$DATETIME Took photo with flag: $1" >> /home/emli/project/pics/logs.txt
+echo "$DATETIME Took photo with flag: $1" >>/home/emli/project/pics/logs.txt
 
-echo $json_body > $FILE.json
+echo $json_body >$FILE.json
 echo "Photo $FILE.jpg taken with trigger $1"

@@ -1,1 +1,16 @@
-*/pics/*/
+.bash_history
+.bash_logout
+.bashrc
+.dotnet/
+.lesshst
+.profile
+.python_history
+.sudo_as_admin_successful
+.vscode-server/
+.wget-hsts
+.venv/
+pics/
+cloud/pics/
+copied_photos.txt
+
+*.jpg
